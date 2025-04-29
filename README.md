@@ -1,6 +1,6 @@
 # Implement a Sudoku Solver From Scratch
-## NAME : Sree Hari K
-## REG.NO : 212223230212
+## NAME : Shyam Kumar E
+## REG.NO : 212223230207
 ## AIM: 
 To implement a Sudoku solver using the backtracking algorithm to find the solution for the given Sudoku puzzle.
 
